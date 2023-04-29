@@ -24,7 +24,7 @@ pod 'Storyboardable'
 
 ## Author
 
-outofcoding, outofcoding@gmail.com and bear, mrgamza@gmail.com
+Donghyuk Lee - mrgamza@gmail.com
 
 ## License
 
